@@ -1,0 +1,6 @@
+{
+  "USER_SUCCESS": "User added successful.",
+  "ERR_INTERNAL_SERVER": "Something went wrong.",
+  "ERR_TOKEN_EXP": "User token expired.",
+  "ERR_URL_NOT_FOUND": "Requested URL not found."
+}
