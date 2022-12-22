@@ -25,7 +25,7 @@
     "in-app-purchase": "^1.11.1",
     "jm-ez-l10n": "^1.0.0",
     "jm-ez-mysql": "^2.3.0",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "method-override": "^3.0.0",
     "moment": "^2.23.0",
     "moment-timezone": "^0.5.23",
