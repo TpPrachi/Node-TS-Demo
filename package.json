@@ -14,7 +14,7 @@
   "dependencies": {
     "@types/lodash": "^4.14.119",
     "@types/npm": "^2.0.29",
-    "class-validator": "^0.9.1",
+    "class-validator": "^0.14.0",
     "compression": "^1.7.3",
     "crypto": "^1.0.1",
     "dotenv": "^6.2.0",
